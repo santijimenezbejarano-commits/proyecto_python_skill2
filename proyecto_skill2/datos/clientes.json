@@ -1,0 +1,9 @@
+{
+    "1": {
+        "id_cliente": 1,
+        "nombre": "164553",
+        "documento": "156489444",
+        "tipo_vehiculo": "moto",
+        "estado": "activo"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "1": {
+        "id_vehiculo": 1,
+        "tipo": "moto",
+        "placa": "ABS45D",
+        "modelo": "SUZUKI",
+        "disponible": true,
+        "estado": "activo"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "1": {
+        "id_instructor": 1,
+        "nombre": "duvan",
+        "documento": "45656563121",
+        "especialidad": "moto",
+        "estado": "activo"
+    }
+}
