@@ -2,8 +2,43 @@
     "1": {
         "id_instructor": 1,
         "nombre": "duvan",
-        "documento": "45656563121",
+        "documento": "45556522",
         "especialidad": "moto",
+        "estado": "activo"
+    },
+    "2": {
+        "id_instructor": 2,
+        "nombre": "fredy",
+        "documento": "587884473",
+        "especialidad": "carro",
+        "estado": "activo"
+    },
+    "3": {
+        "id_instructor": 3,
+        "nombre": "camilo",
+        "documento": "55547883",
+        "especialidad": "carro",
+        "estado": "activo"
+    },
+    "4": {
+        "id_instructor": 4,
+        "nombre": "pepito",
+        "documento": "456841355",
+        "especialidad": "moto",
+        "estado": "activo"
+    },
+    "5": {
+        "id_instructor": 5,
+        "nombre": "Mario Martinez Sunguiti",
+        "documento": "123456789",
+        "especialidad": "moto",
+        "estado": "activo"
+    },
+    "6": {
+        "id_instructor": 6,
+        "nombre": "kelly sarmiento",
+        "documento": "000987",
+        "especialidad": "carro",
         "estado": "activo"
     }
 }
