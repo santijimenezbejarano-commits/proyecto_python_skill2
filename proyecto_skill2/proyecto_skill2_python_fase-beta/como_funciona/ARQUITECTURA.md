@@ -219,7 +219,7 @@ La aplicación **DriveSafe** es un sistema modular basado en POO (Programación 
 **Validaciones**:
 - Fecha futura (DD/MM/YYYY)
 - Hora válida (HH:MM)
-- Duración permitida (30, 45, 60, 90, 120)
+- Duración permitida (30, 45, 60, 90, 120)#en minutos 
 - Especialidad instructor = tipo vehículo
 - Vehículo disponible
 - Cliente, instructor, vehículo existen
